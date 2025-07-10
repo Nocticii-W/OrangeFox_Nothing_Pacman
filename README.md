@@ -1,2 +1,2 @@
-# OrangeFox_Nothing_Pacman
+# OrangeFox for Nothing Phone (2a)
 
